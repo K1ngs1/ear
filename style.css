@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #D3F3E7;
+    color: #FF8A5F;
+}
+    
+.header{
+    text-align: center;
+    background-color: #A8D7D5;
+    position: absolute;
+    width: 100%;
+    color: #FF8A5F;
+}
+
+.cont{
+    padding: 10%;
+}
+
+.st{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 25px;
+}
